@@ -3,6 +3,7 @@ id: about
 title: About
 ---
 
+I am Diane Lee, a Business Operations Manager and Data Engineer at Cisco. I am constantly walking the thin line between technical and non-technical problems. Reach out to me if you need a sounding board on your operational issues.
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
@@ -30,3 +31,6 @@ Grace Hopper Celebration Attendee
 - Twitter
 - LinkedIn
 - GitHub
+
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
