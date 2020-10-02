@@ -3,7 +3,7 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+Check out my Tableau Public page:
 
 [Tableau Public] (https://public.tableau.com/profile/diane2191#!/)
 
