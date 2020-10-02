@@ -5,6 +5,9 @@ title: Projects
 
 Embed any notable projects in this page.
 
+https://public.tableau.com/profile/diane2191#!/
+
+
 For example, my favorite project would be linked and I can even embed
 a screenshot or GIF to show it.
 
